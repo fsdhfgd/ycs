@@ -1,0 +1,6 @@
+{
+  "name": "多厂商云 IP 查询工具",
+  "description": "快速查询 IP 是否属于 AWS, GCP, Azure, Oracle 或 Cloudflare 网络范围。支持实时同步官方数据及 Python 脚本生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
